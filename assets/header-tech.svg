@@ -1,0 +1,11 @@
+<svg width="760" height="60" viewBox="0 0 760 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0e75b6"/>
+      <stop offset="50%" stop-color="#7F52FF"/>
+      <stop offset="100%" stop-color="#2ea043"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="756" height="56" rx="14" fill="#0D1117" stroke="url(#g)" stroke-width="2"/>
+  <text x="380" y="38" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="700" letter-spacing="3" fill="url(#g)">&gt; TECH ARSENAL</text>
+</svg>
