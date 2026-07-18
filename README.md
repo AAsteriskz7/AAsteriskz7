@@ -1,7 +1,8 @@
-<!-- HERO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=28&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&height=40&lines=INNOVATING+WITH+AI+ARCHITECTURE;FULL-STACK+ENGINEERING;CPO+%40+GIFTSPARK;CS+%40+GEORGIA+TECH" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/AAsteriskz7/AAsteriskz7/main/assets/header-hero.svg" alt="Adarsh Setty" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://neofetch-profile.vercel.app/api?username=AAsteriskz7&theme=tokyonight&config=https://raw.githubusercontent.com/AAsteriskz7/AAsteriskz7/main/neofetch.json" alt="Terminal Profile" />
@@ -18,9 +19,8 @@
 
 <br />
 
-<!-- TECH ARSENAL -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=22&color=0e75b6&center=true&width=400&height=30&lines=TECH+ARSENAL" />
+  <img src="https://raw.githubusercontent.com/AAsteriskz7/AAsteriskz7/main/assets/header-tech.svg" alt="Tech Arsenal" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=0e75b6" />
@@ -35,9 +35,8 @@
 
 <br />
 
-<!-- RESEARCH -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=22&color=7F52FF&center=true&width=550&height=30&lines=RESEARCH+%26+ARCHITECTURE" />
+  <img src="https://raw.githubusercontent.com/AAsteriskz7/AAsteriskz7/main/assets/header-research.svg" alt="Research & Architecture" />
 </div>
 
 > **Deep-Dive Focus:** Adversarial red-teaming on open-source Qwen models, documenting RLHF vulnerabilities.
@@ -48,16 +47,15 @@
 
 <br />
 
-<!-- STATS -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=22&color=2ea043&center=true&width=400&height=30&lines=GITHUB+ANALYTICS" />
+  <img src="https://raw.githubusercontent.com/AAsteriskz7/AAsteriskz7/main/assets/header-analytics.svg" alt="GitHub Analytics" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AAsteriskz7&show_icons=true&title_color=7F52FF&text_color=c9d1d9&icon_color=2ea043&bg_color=0D1117&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAsteriskz7&layout=compact&title_color=7F52FF&text_color=c9d1d9&bg_color=0D1117&hide_border=true" width="48%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAsteriskz7&theme=dark&background=0D1117&border=0D1117&ring=7F52FF&fire=2ea043&currStreakLabel=0e75b6" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=AAsteriskz7&theme=dark&background=0D1117&border=0D1117&ring=7F52FF&fire=2ea043&currStreakLabel=0e75b6" width="70%" />
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AAsteriskz7&theme=algolia&no-frame=true&margin-w=10&column=7" />
@@ -65,18 +63,16 @@
 
 <br />
 
-<!-- BLOG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=22&color=0e75b6&center=true&width=400&height=30&lines=LATEST+ARTICLES" />
+  <img src="https://raw.githubusercontent.com/AAsteriskz7/AAsteriskz7/main/assets/header-articles.svg" alt="Latest Articles" />
 </div>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <br />
 
-<!-- SNAKE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=22&color=2ea043&center=true&width=500&height=30&lines=CONTRIBUTION+ACTIVITY" />
+  <img src="https://raw.githubusercontent.com/AAsteriskz7/AAsteriskz7/main/assets/header-contrib.svg" alt="Contribution Activity" />
 </div>
 <div align="center">
   <picture>
