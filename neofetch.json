@@ -5,8 +5,10 @@
       "fields": [
         { "key": "Name", "value": "Adarsh Setty" },
         { "key": "Location", "value": "Atlanta, GA" },
-        { "key": "Bio", "value": "Innovating with AI architecture & full-stack engineering. CPO @ GiftSpark rewriting enterprise tech. CS Student @ Georgia Tech (AI/Cybersec & Fintech)" },
-        { "key": "Languages", "value": "Python, JavaScript, Java, SQL, Dart/Flutter, Kotlin, C++" }
+        { "key": "Focus", "value": "AI Architecture & Full-Stack" },
+        { "key": "Role", "value": "CPO @ GiftSpark" },
+        { "key": "Studies", "value": "CS @ Georgia Tech (AI/Cybersec & Fintech)" },
+        { "key": "Languages", "value": "Python, JS, Java, C++, SQL, Dart, Kotlin" }
       ]
     },
     {
